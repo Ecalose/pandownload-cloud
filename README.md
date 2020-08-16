@@ -1,4 +1,4 @@
-# pan-cloud  
+# pandownload-cloud  
 https://wx.admire.workers.dev  
 Thinks For：  
 https://github.com/TkzcM/baiduwp  

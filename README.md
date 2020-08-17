@@ -1,5 +1,5 @@
 # pandownload-cloud  
-https://wx.admire.workers.dev  
+https://downpcs.ga
 Thinks For：  
 https://github.com/TkzcM/baiduwp  
 pandownload-fix(comming soon,may be not):  

@@ -1,5 +1,5 @@
 # pandownload-cloud  
-https://wx.admire.workers.dev  
+https://pan.admire.workers.dev  
 or https://downpcs.ga  
 Thinks For：  
 https://github.com/TkzcM/baiduwp  

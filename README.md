@@ -1,5 +1,5 @@
 # pandownload-cloud  
-https://pan.admire.workers.dev  
+https://pan.admir.xyz
 
 
 ## pandownload-fix

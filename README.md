@@ -1,5 +1,5 @@
 # pandownload-cloud  
-https://pan.admir.xyz
+https://pan.admir.xyz/rapid
 
 
 ## pandownload-fix
